@@ -19,7 +19,7 @@ telegram-python-bot
 
 ### Database
 
-MySql
+Json stored with python Script
 
 ### Hosting
 
