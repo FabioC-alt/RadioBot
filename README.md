@@ -19,5 +19,9 @@ telegram-python-bot
 
 ### Database
 
+MySql
+
+### Hosting
+
 
 
