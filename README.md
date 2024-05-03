@@ -23,5 +23,11 @@ Json stored with python Script
 
 ### Hosting
 
+Google App Script
 
+## Chat Flow
+
+<img src="images/ChatFlow.png"
+     alt="ChatFlow"
+     style="float: left; margin-right: 10px;" />
 
